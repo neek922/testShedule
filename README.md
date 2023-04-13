@@ -1,1 +1,2 @@
 # testShedule
+use .env.example
