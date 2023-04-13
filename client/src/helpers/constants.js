@@ -1,0 +1,16 @@
+export const CLEAR = 'Clear';
+export const STAFF_MEMBER = 'Staff Member';
+export const TOTALS = 'Totals';
+export const LUNCH = 'Lunch';
+export const MORNING = 'Morning';
+export const AFTERNOON = 'Afternoon';
+export const WORKING_DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
+// export const WORKERS = ['X1', 'X2', CLEAR];
+export const WORKERS = ['X1', 'X2', 'X3', 'X4', 'X5', 'X6', 'X7', CLEAR];
+export const JOBS = ['Morning UpStairs', 'Morning Down Stairs', 'Morning Parking Lot', 'Lunch A', 'Lunch B', 'Lunch C', 'Lunch D', 'Afternoon UpStairs', 'Afternoon Down Stairs', 'Afternoon Parking Lot'];
+// export const JOBS = ['Lunch A', 'Lunch B', 'Lunch C', 'Lunch D'];
+export const MAX_SHIFTS_WEEK = 7;
+export const MAX_SHIFTS_DAY = 2;
+export const MAX_SHIFTS_MORNING = 1;
+export const MAX_SHIFTS_AFTERNOON = 1;
+export const MAX_SHIFTS_LUNCH = 1;
